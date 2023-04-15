@@ -1,0 +1,19 @@
+*{
+  padding:0;
+  margin: 0;
+}
+.header{
+  background:linear-gradient(0deg, #000, rgb(10 206 237 / 55%)),  url("../images/top-view-doctor-office.jpg");
+  background-size:cover;
+}
+.intro{
+  margin: 12% auto;
+}
+.level-one{
+  font-size: 50px;
+  font-weight: 700
+}
+
+button{
+  padding: 10px 30px;
+}
